@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application_checkBox</string>
+    <string name="payInfo">Информация об оплате</string>
+    <string name="money">Ввод денег</string>
+    <string name="card">С банковской карты</string>
+    <string name="mobPhone">С мобильного телефона</string>
+    <string name="phone">С мобильного телефона</string>
+    <string name="cash">Наличными по адресу</string>
+    <string name="ok">OK</string>
+    <string name="incorrect_value">введены неверные данные</string>
+</resources>
